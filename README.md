@@ -10,7 +10,7 @@ My main tech stack is **Python, Java, and MySQL**. My favorite tools are **VS Co
 
 I haven't moved my main projects to GitHub yet, but I'm currently writing a **Science Fiction book** (work in progress! 🚀).
 
-If you want to play something, [my Steam profile is available here!](COLOQUE_O_LINK_DA_SUA_STEAM_AQUI)
+If you want to play something, [my Steam profile is available here!](https://steamcommunity.com/id/dantottem/)
 
 **Fun Facts:**
 
